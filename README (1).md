@@ -199,5 +199,10 @@ For questions or issues:
 - Refer to the error messages for troubleshooting guidance
 
 ---
+<img width="1404" height="1240" alt="image" src="https://github.com/user-attachments/assets/28c4f34e-ecda-460b-abe3-0a414da73372" />
+<img width="1408" height="1425" alt="Screenshot 2025-09-24 230550" src="https://github.com/user-attachments/assets/7c8babb4-6984-4ad3-befa-43dab7af02ab" />
+<img width="1404" height="1239" alt="Screenshot 2025-09-24 230656" src="https://github.com/user-attachments/assets/4545ee3d-a4b5-4509-8e06-4af53fc13094" />
+<img width="1408" height="1343" alt="Screenshot 2025-09-24 230621" src="https://github.com/user-attachments/assets/24dd119a-4c80-4dfa-ae89-a26d21c481ff" />
 
-**Note**: This is a console-based application designed for learning Java programming concepts including object-oriented design, exception handling, file I/O operations, and menu-driven interfaces.
+
+
